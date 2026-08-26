@@ -1,0 +1,22 @@
+# CMake build directory
+build/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.obj
+
+# JUCE generated/build artifacts
+JuceLibraryCode/
+
+# OS files
+.DS_Store
+Thumbs.db
