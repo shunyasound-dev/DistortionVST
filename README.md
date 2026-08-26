@@ -1,2 +1,2 @@
 # DistortionVST
-Simple but Powerful Distortion Audio Plugin (VST3/Standalone)
+Simple but Powerful Distortion Audio Effect Plugin (VST3/Standalone)
